@@ -1,0 +1,73 @@
+body{
+    background-color: rgb(161, 178, 192);
+}
+.Div{
+    margin-left: 20px;
+    margin-bottom: 20px;
+    width: 500px;
+    height: 500px;
+}
+.div1{
+    margin: auto;
+    width: 200px;
+    height: 27px;
+    border:  solid 1px black;
+    background-color: white;
+}
+.div2{
+    margin: auto;
+    width: 200px;
+    height: 27px;
+    border:  solid 1px black;
+    background-color: white;
+}
+
+.div3{
+    margin: auto;
+    width: 200px;
+    height: 27px;
+    border:  solid 1px rgb(2, 2, 2);
+    background-color: rgb(221, 26, 26);
+    border-radius: 5px;
+}
+
+.body{
+    background-color: linen;
+}
+.div4{
+    margin: auto;
+    width: 750px;
+    height: 650px;
+    border: solid 2px black;
+}
+.p{
+    position: relative;
+    left: 15px;
+}
+
+.p1 {
+    position: relative;
+    left: 50px;
+}
+.pp1{
+    position: relative;
+    left: 52px;
+    top: 0.2px;
+}
+.p2{
+    position: relative;
+    left: 50px;
+    text-decoration: line;
+}
+.p3{
+    position: relative;
+    left: 50px;
+}
+.p4{
+    position: relative;
+    left: 50px;
+}
+.p5{
+    position: relative;
+    left: 50px;
+}
